@@ -10,16 +10,20 @@ This project involves exploratory data analysis (EDA) on historical Formula 1 ra
 - **Visualization**: Line plots show the accumulation of wins, highlighting periods of dominance.
   ![Cumulative Team Wins](charts/cum_teams.png)
 
-  ![Cumulative Team Wins](charts/cum_drivers.png)
+  ![Cumulative Driver Wins](charts/cum_drivers.png)
 - **Insights**: The data reveals dominant eras for teams like Ferrari in the early 2000s and drivers like Lewis Hamilton in recent years.
 
 ### 2. Dominance Periods
 - **Objective**: Identify specific periods when teams or drivers were dominant.
-- **Method**: Analyze the number of wins over consecutive years.
+- **Visualization**: Time dependent bar plot shows dominant eras for teams and drivers
+  ![Dominant Teams](charts/dom_teams.png)
+  ![Dominant Drivers](charts/dom_drivers.png)
 - **Results**: Notable periods include Ferrari's dominance from 1994 to 2013 and Lewis Hamilton's peak from 2007 to 2021.
 
 ### 3. Race Characteristics: Lap Times and Evolution
 - **Objective**: Examine the evolution of average lap times in races.
+- **Visualization**: Time series of the average lap time over each year shows the trend of speed in the sport
+  ![Speed](charts/lap_avg.png)
 - **Findings**:
   - A running average of lap times shows improvements in race speeds over time, influenced by technological advancements and changes in regulations.
   - However, lap times in the 1960s became slower due to regulatory changes, including reduced engine capacities and an increased focus on safety.
@@ -34,11 +38,3 @@ The EDA provides a comprehensive overview of historical trends in Formula 1, hig
 
 ## Acknowledgments
 This analysis was made possible by the rich historical data available for Formula 1. Special thanks to the contributors who have preserved and shared this data.
-
-## How to Use
-1. **Data**: Ensure you have the dataset ready.
-2. **Scripts**: Use the provided scripts to reproduce the analysis and visualizations.
-3. **Visualization**: Check the visualization scripts for customized plots.
-
-## Contact
-For any questions or suggestions, please open an issue or contact [Your Name] at [Your Contact Information].
