@@ -53,7 +53,7 @@ It contains:
 ## Conclusion
 Scuderia Ferrari is clearly the most decorated team historically, but we need to reverse the narrative of recent years.<br>
 
-  ![Tifosi](charts/tifosi.png)
+  ![Tifosi](charts/tifosi.jpg)
 
 ## Future Work
 - **Deep Dive into Specific Eras**: More detailed analysis of specific periods or drivers.
