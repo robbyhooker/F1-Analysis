@@ -1,5 +1,3 @@
-# Formula 1 Historical Data Analysis
-
 ## Overview
 This project involves exploratory data analysis (EDA) on historical Formula 1 race data, focusing on understanding trends and patterns among teams, drivers, and race characteristics over the years. 
 
